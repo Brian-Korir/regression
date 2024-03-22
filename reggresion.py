@@ -1,5 +1,4 @@
-import matplotlib.pyplot as plt
-# Define hypothetical set of independent variables
+import matplotlib.pyplot as plt
 hypothetical_data = {
     'Road conditions': 'wet',
     'Weather conditions': 'rainy',
